@@ -1,0 +1,11 @@
+@"
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+data.db
+*.log
+.streamlit/secrets.toml
+"@ | Set-Content -Encoding ascii .gitignore
