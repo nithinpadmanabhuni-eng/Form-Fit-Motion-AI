@@ -1,0 +1,4 @@
+@"
+libgl1
+libglib2.0-0
+"@ | Set-Content -Encoding ascii packages.txt
